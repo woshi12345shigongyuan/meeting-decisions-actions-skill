@@ -282,3 +282,5 @@ python scripts/extract_check.py output.json --notes meeting.md --strict
 - [ ] 风险与待解决问题没有混入待办。
 - [ ] 已运行（或手工执行）结构与证据校验，无错误。
 - [ ] 输出包含 JSON 与 Markdown 两部分，顺序正确。
+
+<!-- OB-S:cMqGAoMQ9q-mmvX-1BB-zA -->
